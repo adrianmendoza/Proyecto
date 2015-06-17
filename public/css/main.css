@@ -1,0 +1,38 @@
+.navbar{
+	margin-bottom: 0px;
+
+}
+
+.notificaciones{
+	height: 60px;
+	background-color: #f0f0f0;
+	padding: 15px;
+}
+
+.encabezado {
+
+	text-align: center;
+	height: 40px;
+	background-color: #4a4d50;
+	color: white;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	margin-bottom :10px;
+}
+
+.contenido{
+	text-align: center;
+}
+
+#login{
+	margin-top: 30px;
+	
+
+}
+#final{
+	background-color:  #4a4d50;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	}
+
+
